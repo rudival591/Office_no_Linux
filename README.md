@@ -27,7 +27,7 @@ Crossover Instalado agora e só restaurar o arquivo grafana do office
 
 Baixar o office2013
 
-https://github.com/rudival591/office2013grafana.git
+git clone https://github.com/rudival591/office2013grafana.git
 
 Extrair os arquivos:
 
