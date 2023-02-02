@@ -25,4 +25,24 @@ sudo cp winewrapper.exe.so /opt/cxoffice/lib/wine
 
 Crossover Instalado agora e só restaurar o arquivo grafana do office
 
+Baixar o office2013
+
+https://github.com/rudival591/office2013grafana.git
+
+Extrair os arquivos:
+
+7z e Microsoft_Office_2013.cxarchive.7z.001
+
+Agora e so restaurar no crossover
+
+clicar em grafana
+
+importar arquivo de grafana
+
+selecione o office2013
+
+Seja feliz...
+
+![image](https://user-images.githubusercontent.com/37409284/216438178-05fa92df-79ef-4aac-8019-a9b7e8073faa.png)
+
 
